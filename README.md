@@ -1,6 +1,6 @@
 # Thermal Chamber (Test Setup)
 
-> **Scope:** This repo contains the firmware, CAD, and electrical files to build a small benchtop thermal chamber for testing the VoxVisoion camera system. This repo, while intended for internal use, was made public to allow for the use of the designs by hobbyists. Voxelis AI makes no claims of functionality or saftey and will not maintain this repo.
+> **Scope:** This repo contains the firmware, CAD, and electrical files to build a small benchtop thermal chamber for testing the VoxVision camera system. This repo, while intended for internal use, was made public to allow for the use of the designs by hobbyists. Voxelis AI makes no claims of functionality or saftey and will not maintain this repo.
 >
 >  This README covers: system overview (mechanical & electrical), firmware behavior, setup, and usage.
 
